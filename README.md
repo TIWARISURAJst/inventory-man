@@ -1,1 +1,1 @@
-# inventory-man
+# inventory-management project
